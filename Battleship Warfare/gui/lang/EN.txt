@@ -1,0 +1,38 @@
+English
+Play
+Setting
+Credit
+Exit
+Back
+Main Menu
+Standard
+Custom
+Coming soon
+/// LAUNCH ///
+Select a game mode
+Next
+Previous
+Random
+Battleship Warfare Alert
+Are you sure you want to quit the game?
+Are you sure you want to quit?
+The player {} is firing.
+Please execute your shots on each opposing fleet.
+Please fire at the opposing fleet.
+Mission failed, your fleet has been destroyed!
+Congratulations, you have annihilated the enemy fleet!
+You have already fired at the {} player. You have not shot at {} fleet yet.
+Switch to windowed mode
+Switch to full screen
+Restart and apply
+Apply
+High Sea
+Casual
+Hardcore !
+Abort
+Language
+Requires a restart to take effect
+Quickly change with by pressing <F11>
+Change
+Cancel
+Creates the game

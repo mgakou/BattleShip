@@ -1,0 +1,38 @@
+Português
+Reproduzir
+Configuração
+Crédito
+Saída
+Voltar
+Menu principal
+Norma
+Personalizado
+Em breve
+/// ALMOÇO ///
+Seleccione um modo de jogo
+Próximo
+Anterior
+Aleatório
+Alerta de Guerra de Naves de Batalha
+Tem a certeza de que quer desistir do jogo?
+Tem a certeza de que quer desistir?
+O jogador {} está a disparar.
+Por favor, execute os seus disparos em cada frota adversária.
+Por favor, dispare contra a frota adversária.
+Missão falhada, a sua frota foi destruída!
+Parabéns, aniquilou a frota inimiga!
+Já disparou contra o jogador {}. Ainda não disparou contra a {} frota.
+Mudar para o modo janela
+Mudar para ecrã inteiro
+Reiniciar e aplicar
+Aplicar
+Mar alto
+Casual
+Hardcore !
+Abortar
+Idioma
+Requer um reinício para ter efeito
+Mudar rapidamente com pressionando <F11>
+Alterar
+Cancelar
+Cria o jogo

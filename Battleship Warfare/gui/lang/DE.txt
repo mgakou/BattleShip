@@ -1,0 +1,38 @@
+Deutsch
+Spielen
+Einstellung
+Kredit
+Ausfahrt
+Zurück
+Hauptmenü
+Standard
+Benutzerdefiniert
+Demnächst verfügbar
+/// STARTEN ///
+Wählen Sie einen Spielmodus
+Nächster
+Vorherige
+Zufällig
+Schlachtschiff Warfare-Alarm
+Sind Sie sicher, dass Sie das Spiel beenden wollen?
+Sind Sie sicher, dass Sie aufhören wollen?
+Der Spieler {} feuert.
+Bitte führen Sie Ihre Schüsse auf jede gegnerische Flotte aus.
+Bitte schießen Sie auf die gegnerische Flotte.
+Mission gescheitert, deine Flotte wurde zerstört!
+Glückwunsch, du hast die gegnerische Flotte vernichtet!
+Du hast bereits auf den {} Spieler geschossen. Du hast noch nicht auf die {} Flotte geschossen.
+In den Fenstermodus wechseln
+In den Vollbildmodus wechseln
+Neu starten und anwenden
+Anwenden
+Hohe See
+Lässig
+Hardcore!
+Abbrechen
+Sprache
+Erfordert einen Neustart, um wirksam zu werden
+Schnelles Wechseln mit durch Drücken von <F11>
+Ändern
+Abbrechen
+Erzeugt das Spiel

@@ -1,0 +1,38 @@
+Français
+Jouer
+Réglage
+Crédit
+Quitter
+Retour
+Menu principal
+Standard
+Personnalisé
+Prochainement
+/// LANCER ///
+Sélectionnez un mode de jeu
+Suivant
+Précédent
+Aléatoire
+Battleship Warfare Alert
+Êtes-vous sûr de vouloir quitter le jeu ?
+Êtes-vous sûr de vouloir abandonner ?
+Le joueur {} exécute ses tirs.
+Veuillez exécuter vos tirs sur chaque flotte adverse.
+Veuillez exécuter vos tirs sur la flotte adverse.
+Échec de la mission, votre flotte a été anéanti !
+Félicitation, vous avez anéanti la flotte ennemie !
+Vous avez déjà tiré sur le joueur {}. Vous n'avez pas tiré sur {} flotte encore.
+Basculer en mode fenêtré
+Basculer en plein écran
+Redémarrer et appliquer
+Appliquer
+Haute Mer
+Casual
+Hardcore !
+Abandonner
+Langage
+Nécessite un redémarrage pour prendre effet
+Changez rapidement avec en pressant <F11>
+Changer
+Annuler
+Crée la partie

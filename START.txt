@@ -1,0 +1,26 @@
+B A T T L E S H I P W A R F A R E 
+v0.2.2
+
+Un premier projet de Battleship Project Team
+
+LANCEUR:
+launcher.py
+
+REQUIS :
+Il est recommandé d'exécuter le fichier controller.py avec python 3.10.4 ou supérieur (et non un IDE), le lien de téléchargement pour PC est disponible ci-dessous :
+https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe
+
+La dernière version du projet est disponible à l'adresse suivante :
+https://cutt.ly/iFdf7QC
+
+NOTE:
+Partie personalisé [BETA] :
+Le menu de personnalisation du jeu n'étant pas encore disponible, des présélections pré-créées sont disponibles :
+- Standard : Un jeu de bataille navale standard.
+- High Seas : 3 joueurs dans des grilles 12x12 avec 2 porte-avions, 3 cuirassés, 4 frégates et 2 sous-marins.
+- Casual : 4 joueurs dans des grilles 4x4 avec un sous-marin.
+- Hardcore : 10 joueurs, dont 9 ne vous attaqueront que dans des grilles 15x15 avec un porte-avions et 3 frégates.
+
+CREDIT
+Code et graphisme : Okiushi
+Site internet et communication : Gakou

@@ -1,0 +1,38 @@
+Español
+Jugar
+Configuración
+Crédito
+Salida
+Volver
+Menú principal
+Estándar
+Personalizado
+Próximamente
+/// LANZAMIENTO ///
+Selecciona un modo de juego
+Siguiente
+Anterior
+Al azar
+Alerta de Guerra de Acorazados
+¿Estás seguro de que quieres dejar el juego?
+¿Estás seguro de que quieres dejar el juego?
+El jugador {} está disparando.
+Por favor, ejecute sus disparos sobre la flota contraria.
+Por favor, dispare a la flota contraria.
+Misión fallida, su flota ha sido destruida.
+Enhorabuena, ¡ha aniquilado la flota enemiga!
+Ya has disparado al jugador {}. Todavía no has disparado a la flota de {}.
+Cambiar a modo ventana
+Cambiar a pantalla completa
+Reiniciar y aplicar
+Aplicar
+Alta mar
+Casual
+¡Hardcore !
+Abortar
+Idioma
+Requiere un reinicio para que surta efecto
+Cambia rápidamente con pulsando <F11>
+Cambiar
+Cancelar
+Crea el juego
